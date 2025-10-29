@@ -6,7 +6,7 @@ Aplicativo Android desenvolvido em **Kotlin** com **Jetpack Compose** para calcu
 
 ## 🎥 Demonstração
 
-[▶️ Assista ao vídeo do app](https://drive.google.com/file/d/1LjSOnl7mRgEZSXCLhzMwX6iYBDss3Qq1/view?usp=sharing)
+[▶️ Assista ao vídeo do app](https://drive.google.com/file/d/195rqQS0a0ajOhwZmjxph-g0bTAb3AYje/view?usp=sharing)
 
 ---
 
